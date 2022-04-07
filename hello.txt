@@ -4,4 +4,8 @@ hello new
 added new branch name newBranch
 
 
+<<<<<<< HEAD
 update for new branch lol
+=======
+update new something
+>>>>>>> 0cea5d0a7200fb5bc3e121ce790304e85d47c140
